@@ -1,0 +1,24 @@
+.main-header{
+  font-size: 65px;
+  text-align: center;
+  background-color: brown;
+  border-radius: 7px;
+}
+.blog-site{
+  background-color: darkslateblue;
+  border: 12px solid red;
+  margin: 30px 25px;
+  padding: 10px 25px;
+  border-radius: 10px;
+}
+span{
+  color: white;
+}
+.heading{
+  font-size: 35px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+  font-size: 25px;
+}
